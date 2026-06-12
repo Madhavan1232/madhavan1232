@@ -95,57 +95,6 @@ An enterprise-grade portal for managing internships, training programs, and camp
   - 🤖 Recruitment workflow automation
   - 📈 Performance metrics & insights
 
-[View Repository](https://github.com/madhavan1232/placement-portal) | [Documentation](https://github.com/madhavan1232/placement-portal/wiki)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhavan1232&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/madhavan1232)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhavan1232&theme=tokyonight&hide_border=true)](https://github.com/madhavan1232)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavan1232&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/madhavan1232)
-
-</div>
-
----
-
-## 🎯 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhavan1232&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavan1232&theme=tokyo-night&hide_border=true&radius=16" alt="Activity Graph" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/madhavan1232/madhavan1232/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
----
-
-## 🌱 Currently Learning
-
-- 🔍 **Advanced System Design** - Building scalable architectures
-- 🧵 **Microservices Architecture** - Service-oriented development
-- ☁️ **Cloud Technologies** - AWS & Docker deployment
-- 🔐 **Security Best Practices** - Application security hardening
-- 📱 **Mobile Development** - React Native exploration
-
----
 
 ## 🎓 Education
 
@@ -199,24 +148,7 @@ Feel free to reach out! I'm always excited to discuss new opportunities, collabo
 
 ---
 
-## 📊 Visitor Count
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/madhavan1232/count.svg" alt="Visitor Count" />
-</div>
-
----
-
-## 🎉 Fun Fact
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Fun%20Fact-I%20debug%20code%20like%20I'm%20detective%20Sherlock%20Holmes!-FF69B4?style=for-the-badge" alt="Fun Fact" />
-  
-  *Debugging is like detective work - collect clues, eliminate suspects, find the culprit! 🕵️‍♂️*
-  
-</div>
-
----
 
 <div align="center">
   
