@@ -54,48 +54,6 @@ Currently pursuing **B.Tech Information Technology** at Sri Krishna College of E
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### 1. **Flexora** - Full-Stack Freelancer Marketplace
-<img align="right" src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active" />
-
-A comprehensive freelancer marketplace platform connecting clients and service providers.
-
-**Tech Stack:**
-- **Frontend:** React.js, HTML5, CSS3, JavaScript
-- **Backend:** Spring Boot, Java
-- **Database:** MySQL
-- **Features:** 
-  - 🔐 Secure authentication & user management
-  - 💼 Project bidding system
-  - 👤 User profiles & portfolios
-  - 📱 Responsive design
-  - 💬 Real-time messaging
-
-[View Repository](https://github.com/madhavan1232/flexora) | [Live Demo](https://flexora-demo.vercel.app)
-
----
-
-### 2. **Internship Training & Placement Portal**
-<img align="right" src="https://img.shields.io/badge/Status-Production-blue" alt="Production" />
-
-An enterprise-grade portal for managing internships, training programs, and campus placements.
-
-**Tech Stack:**
-- **Frontend:** React.js
-- **Backend:** Spring Boot, Java
-- **Database:** MySQL
-- **Features:**
-  - 🔑 Role-based authentication (Admin, Student, Company)
-  - 📊 Student dashboard with analytics
-  - 📋 Placement management system
-  - 🧠 LeetCode progress tracking integration
-  - 🤖 Recruitment workflow automation
-  - 📈 Performance metrics & insights
-
-
 ## 🎓 Education
 
 **B.Tech Information Technology**
@@ -106,18 +64,6 @@ An enterprise-grade portal for managing internships, training programs, and camp
 **Internship Experience**
 - Microsoftware - Building enterprise solutions
 
----
-
-## 🎯 2026 Goals
-
-- ✅ Build 5+ production-ready full-stack applications
-- 🎖️ Achieve top contributions in open-source projects
-- 📚 Master system design and architecture patterns
-- 🚀 Deploy cloud-native applications
-- 💼 Land a role at a top-tier tech company
-- 🌟 Mentor junior developers
-
----
 
 ## 💻 Coding Profiles & Connect
 
@@ -125,7 +71,7 @@ An enterprise-grade portal for managing internships, training programs, and camp
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/madhavan1232)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madhavan-v-55a92b396/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Madhavan_2006/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web)](https://madhavan1232.github.io/portfolio/)
 
 </div>
@@ -136,26 +82,10 @@ An enterprise-grade portal for managing internships, training programs, and camp
 
 <div align="center">
 
-**Email:** [your.email@example.com](mailto:madhavanvairavan3@gmail.com)
+**Email:** [madhavanvairavan3@gmail.com](mailto:madhavanvairavan3@gmail.com)
 
 **Open to:** Internships | Full-Time Opportunities | Freelance Projects | Open Source Collaboration
 
 Feel free to reach out! I'm always excited to discuss new opportunities, collaborate on projects, or connect with fellow developers.
 
 </div>
-
----
-
-
-
-<div align="center">
-  
-**Thanks for visiting my profile! ⭐ If you find my work interesting, consider starring my repositories!**
-
-![Made with ❤️ by Madhavan V](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Madhavan%20V-ff1744?style=flat-square)
-
-</div>
-
----
-
-*Last updated: June 2026*
