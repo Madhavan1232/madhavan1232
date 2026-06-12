@@ -126,8 +126,6 @@ An enterprise-grade portal for managing internships, training programs, and camp
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/madhavan1232)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madhavan-v-55a92b396/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web)](https://madhavan1232.github.io/portfolio/)
 
 </div>
@@ -138,7 +136,7 @@ An enterprise-grade portal for managing internships, training programs, and camp
 
 <div align="center">
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)
+**Email:** [your.email@example.com](mailto:madhavanvairavan3@gmail.com)
 
 **Open to:** Internships | Full-Time Opportunities | Freelance Projects | Open Source Collaboration
 
