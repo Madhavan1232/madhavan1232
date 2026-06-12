@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-blue?style=flat-square&logo=mapbox" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square" alt="Status" />
   <a href="https://madhavan1232.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-madhavan1232.github.io-blueviolet?style=flat-square&logo=github" alt="Portfolio" />
   </a>
