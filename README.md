@@ -45,17 +45,6 @@ Currently pursuing **B.Tech Information Technology** at Sri Krishna College of E
 **Internship Experience**
 - Microsoftware - Building enterprise solutions
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhavan1232&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavan1232&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ## 💻 Coding Profiles & Connect
 
 <p align="center">
